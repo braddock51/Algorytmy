@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\Select sort\Select sort\obj\Debug\Select sort.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Select sort\Select sort\bin\Debug\Select sort.exe.config
+C:\Users\M\source\repos\Select sort\Select sort\bin\Debug\Select sort.exe
+C:\Users\M\source\repos\Select sort\Select sort\bin\Debug\Select sort.pdb
+C:\Users\M\source\repos\Select sort\Select sort\obj\Debug\Select sort.exe
+C:\Users\M\source\repos\Select sort\Select sort\obj\Debug\Select sort.pdb
