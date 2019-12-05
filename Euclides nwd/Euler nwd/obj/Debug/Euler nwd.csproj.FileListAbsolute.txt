@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\Euler nwd\Euler nwd\bin\Debug\Euler nwd.exe.config
+C:\Users\M\source\repos\Euler nwd\Euler nwd\bin\Debug\Euler nwd.exe
+C:\Users\M\source\repos\Euler nwd\Euler nwd\bin\Debug\Euler nwd.pdb
+C:\Users\M\source\repos\Euler nwd\Euler nwd\obj\Debug\Euler nwd.exe
+C:\Users\M\source\repos\Euler nwd\Euler nwd\obj\Debug\Euler nwd.pdb
+C:\Users\M\source\repos\Euler nwd\Euler nwd\obj\Debug\Euler nwd.csprojAssemblyReference.cache
