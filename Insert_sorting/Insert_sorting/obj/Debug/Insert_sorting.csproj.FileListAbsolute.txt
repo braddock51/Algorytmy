@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\Insert_sorting\Insert_sorting\bin\Debug\Insert_sorting.exe.config
+C:\Users\M\source\repos\Insert_sorting\Insert_sorting\bin\Debug\Insert_sorting.exe
+C:\Users\M\source\repos\Insert_sorting\Insert_sorting\bin\Debug\Insert_sorting.pdb
+C:\Users\M\source\repos\Insert_sorting\Insert_sorting\obj\Debug\Insert_sorting.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Insert_sorting\Insert_sorting\obj\Debug\Insert_sorting.exe
+C:\Users\M\source\repos\Insert_sorting\Insert_sorting\obj\Debug\Insert_sorting.pdb
