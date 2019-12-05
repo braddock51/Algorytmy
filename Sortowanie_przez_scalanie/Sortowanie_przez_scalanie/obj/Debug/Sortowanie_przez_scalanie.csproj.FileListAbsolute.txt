@@ -1,0 +1,6 @@
+C:\Users\M\Desktop\aLGOR\Sortowanie_przez_scalanie\Sortowanie_przez_scalanie\bin\Debug\Sortowanie_przez_scalanie.exe.config
+C:\Users\M\Desktop\aLGOR\Sortowanie_przez_scalanie\Sortowanie_przez_scalanie\bin\Debug\Sortowanie_przez_scalanie.exe
+C:\Users\M\Desktop\aLGOR\Sortowanie_przez_scalanie\Sortowanie_przez_scalanie\bin\Debug\Sortowanie_przez_scalanie.pdb
+C:\Users\M\Desktop\aLGOR\Sortowanie_przez_scalanie\Sortowanie_przez_scalanie\obj\Debug\Sortowanie_przez_scalanie.csprojAssemblyReference.cache
+C:\Users\M\Desktop\aLGOR\Sortowanie_przez_scalanie\Sortowanie_przez_scalanie\obj\Debug\Sortowanie_przez_scalanie.exe
+C:\Users\M\Desktop\aLGOR\Sortowanie_przez_scalanie\Sortowanie_przez_scalanie\obj\Debug\Sortowanie_przez_scalanie.pdb
