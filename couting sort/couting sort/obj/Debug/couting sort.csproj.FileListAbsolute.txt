@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\couting sort\couting sort\bin\Debug\couting sort.exe.config
+C:\Users\M\source\repos\couting sort\couting sort\bin\Debug\couting sort.exe
+C:\Users\M\source\repos\couting sort\couting sort\bin\Debug\couting sort.pdb
+C:\Users\M\source\repos\couting sort\couting sort\obj\Debug\couting sort.csprojAssemblyReference.cache
+C:\Users\M\source\repos\couting sort\couting sort\obj\Debug\couting sort.exe
+C:\Users\M\source\repos\couting sort\couting sort\obj\Debug\couting sort.pdb
