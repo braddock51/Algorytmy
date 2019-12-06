@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\DFS\DFS\obj\Debug\DFS.csprojAssemblyReference.cache
+C:\Users\M\source\repos\DFS\DFS\bin\Debug\DFS.exe.config
+C:\Users\M\source\repos\DFS\DFS\bin\Debug\DFS.exe
+C:\Users\M\source\repos\DFS\DFS\bin\Debug\DFS.pdb
+C:\Users\M\source\repos\DFS\DFS\obj\Debug\DFS.exe
+C:\Users\M\source\repos\DFS\DFS\obj\Debug\DFS.pdb
