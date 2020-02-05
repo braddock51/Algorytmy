@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\Drzewo\Drzewo\bin\Debug\Drzewo.exe.config
+C:\Users\M\source\repos\Drzewo\Drzewo\bin\Debug\Drzewo.exe
+C:\Users\M\source\repos\Drzewo\Drzewo\bin\Debug\Drzewo.pdb
+C:\Users\M\source\repos\Drzewo\Drzewo\obj\Debug\Drzewo.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Drzewo\Drzewo\obj\Debug\Drzewo.exe
+C:\Users\M\source\repos\Drzewo\Drzewo\obj\Debug\Drzewo.pdb

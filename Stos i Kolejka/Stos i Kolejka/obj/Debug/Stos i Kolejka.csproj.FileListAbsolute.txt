@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\Stos i Kolejka\Stos i Kolejka\bin\Debug\Stos i Kolejka.exe.config
+C:\Users\M\source\repos\Stos i Kolejka\Stos i Kolejka\bin\Debug\Stos i Kolejka.exe
+C:\Users\M\source\repos\Stos i Kolejka\Stos i Kolejka\bin\Debug\Stos i Kolejka.pdb
+C:\Users\M\source\repos\Stos i Kolejka\Stos i Kolejka\obj\Debug\Stos i Kolejka.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Stos i Kolejka\Stos i Kolejka\obj\Debug\Stos i Kolejka.exe
+C:\Users\M\source\repos\Stos i Kolejka\Stos i Kolejka\obj\Debug\Stos i Kolejka.pdb
