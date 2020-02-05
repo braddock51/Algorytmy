@@ -1,0 +1,12 @@
+C:\Users\M\source\repos\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\M\source\repos\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\M\source\repos\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\M\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\M\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\Users\M\Desktop\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojAssemblyReference.cache
+C:\Users\M\Desktop\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\M\Desktop\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\Users\M\Desktop\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\M\Desktop\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\M\Desktop\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
