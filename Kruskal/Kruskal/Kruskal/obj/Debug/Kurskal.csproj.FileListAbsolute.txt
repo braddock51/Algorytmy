@@ -1,0 +1,6 @@
+C:\Users\M\Desktop\Kruskal\Kurskal\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\M\Desktop\Kruskal\Kurskal\Kurskal\bin\Debug\Kurskal.exe
+C:\Users\M\Desktop\Kruskal\Kurskal\Kurskal\bin\Debug\Kurskal.pdb
+C:\Users\M\Desktop\Kruskal\Kurskal\Kurskal\obj\Debug\Kurskal.csprojAssemblyReference.cache
+C:\Users\M\Desktop\Kruskal\Kurskal\Kurskal\obj\Debug\Kurskal.exe
+C:\Users\M\Desktop\Kruskal\Kurskal\Kurskal\obj\Debug\Kurskal.pdb
