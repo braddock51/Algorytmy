@@ -1,0 +1,6 @@
+E:\foldery s\AiSD_2019-2020-6-150845-Maksymilian-Wróbel\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+E:\foldery s\AiSD_2019-2020-6-150845-Maksymilian-Wróbel\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+E:\foldery s\AiSD_2019-2020-6-150845-Maksymilian-Wróbel\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+E:\foldery s\AiSD_2019-2020-6-150845-Maksymilian-Wróbel\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+E:\foldery s\AiSD_2019-2020-6-150845-Maksymilian-Wróbel\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+E:\foldery s\AiSD_2019-2020-6-150845-Maksymilian-Wróbel\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
