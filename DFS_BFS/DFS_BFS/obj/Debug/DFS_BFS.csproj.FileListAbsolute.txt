@@ -1,0 +1,6 @@
+C:\Users\M\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe.config
+C:\Users\M\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe
+C:\Users\M\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.pdb
+C:\Users\M\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csprojAssemblyReference.cache
+C:\Users\M\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.exe
+C:\Users\M\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.pdb
